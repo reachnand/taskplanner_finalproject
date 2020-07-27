@@ -1,2 +1,2 @@
-# taskplanner_finalproject
-Repository for the final project (Task Planner)
+# JWD_Taskplanner_AHS
+Anand, Hosai and Saba team
